@@ -1,0 +1,21 @@
+img{
+	height: 400px;
+	width: 400px;
+	position:  center;
+	float: right;
+}
+body{
+	background-color: black; 
+}
+h1{
+	color: white;
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 250%;
+	border-bottom: 2px solid #f1f1f1;
+	width: 30%;
+}
+p{
+	color: white;
+	font-family: 'Patua One', cursive;
+	font-size: 22px;
+}
